@@ -1,0 +1,40 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);
+    transition: 0.4s;
+    max-width: 400px;
+    background-image: url(../img/contactbackground.jpg);
+    background-size: 250%;
+    background-repeat: no-repeat;
+}
+.img {
+    max-width: 300px;
+    max-height: 180px;
+    padding: 15px 3px;
+    border-radius: 50%;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(219, 22, 137, 0.8);
+}
+
+.container {
+    padding: 20px 20px 20px 20px;
+    font-family: sans-serif;
+    word-spacing: 5px;
+    font-style: bold;
+}
+.article {
+    text-align: center;
+}
+.div {
+    text-align: center;
+}
+.blockquote {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    }
+.a {
+    color: rgb(231, 235, 12);
+}
+
